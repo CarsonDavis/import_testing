@@ -1,3 +1,3 @@
-from code.app import script
+from code.app import inside
 
 print("print from outside.py")
